@@ -1,5 +1,5 @@
 $fn=60;
-//change the radius to what you want
+//r = teeth radius
 r=1.2;
 module cycloid(order=100, r=1,n=10,k=1){
      R=n*r;
