@@ -7,4 +7,3 @@ Nema17.scad  has code to create a double gear and a nema17 base.
 </picture>
 
 [![Youtube](https://img.youtube.com/vi/WF20nWtCO3M/0.jpg)](https://www.youtube.com/watch?v=WF20nWtCO3M)
-https://youtu.be/WF20nWtCO3M
