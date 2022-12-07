@@ -1,3 +1,4 @@
+//$fn is resolution
 $fn=60;
 //r = approximated teeth radius
 r=1.2;
