@@ -1,6 +1,19 @@
 $fn=60;
-//r = teeth radius
+//r = approximated teeth radius
 r=1.2;
+//fraction of the nema17 used by the first gear
+fra=0.75;
+//number of teeth
+n=round(fra*(31/1.414)/r);
+//real radius of the teeth
+r1=fra*(31/1.41)/n;
+//height of the each part (everything is scalated by this height)
+h=5.5;
+echo(n);
+ 
+ 
+ //axiliar height 
+h1=h-2;
 module cycloid(order=100, r=1,n=10,k=1){
      R=n*r;
      angles=[ for (i = [0:order-1]) i*(360/order) ];
@@ -12,15 +25,7 @@ module cycloid(order=100, r=1,n=10,k=1){
  
  
  
- fra=0.75;
- n=round(fra*(31/1.414)/r);
- r1=fra*(31/1.41)/n;
- h=5.5;
- echo(n);
  
- 
- 
- h1=h-2;
  
  
  //DUAL GEAR
