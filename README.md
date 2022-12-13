@@ -21,3 +21,7 @@ where n1 is the number of theet of the greatest gear.
 <picture>
   <img alt="." src="./motor25.png">
 </picture>
+
+
+[![Youtube](https://img.youtube.com/vi/2LrX4fYWvLI/0.jpg)](https://www.youtube.com/watch?v=2LrX4fYWvLI)
+
