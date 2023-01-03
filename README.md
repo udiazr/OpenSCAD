@@ -26,3 +26,14 @@ where n1 is the number of theet of the greatest gear.
 
 [![Youtube](https://img.youtube.com/vi/rtV8GCfKaps/0.jpg)](https://www.youtube.com/watch?v=rtV8GCfKaps)
 
+<h2> Precision gearbox for Nema17 </h2>
+This gearbox is intended not for high torque but for precision.
+The backslash is +-1/4 of tooth (2° approximately).
+Maybe can be reduced with tighter tolerances. 
+Only 5 pieces, no metallic pieces, bolts,screws, nuts.
+The ring is printed with TPU.
+<picture>
+  <img alt="." src="./nema17external.jpg">
+</picture>
+
+[![Youtube](https://img.youtube.com/vi/nQzbL1Gv838/0.jpg)](https://www.youtube.com/watch?v=nQzbL1Gv838)
