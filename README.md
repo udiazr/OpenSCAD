@@ -28,7 +28,7 @@ where n1 is the number of theet of the greatest gear.
 
 <h2> Precision gearbox for Nema17 </h2>
 This gearbox is intended not for high torque but for precision.
-The backslash is +-1/4 of tooth (2° approximately).
+The maximum backslash is +-1/4 of tooth (2° approximately) at very high torque.
 Maybe can be reduced with tighter tolerances. 
 Only 5 pieces, no metallic pieces, bolts,screws, nuts.
 The ring is printed with TPU.
