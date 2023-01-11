@@ -1,4 +1,17 @@
 # OpenSCAD
+<h2> New compound cycloidal-helical gearbox </h2>
+Improved version. Helical cycloidal gears.
+Smoother movement.
+Lesser noise.
+Looks great.
+OpenSCAD file: cicloidalnema3.scad
+<picture>
+<img alt="Nuevo cicloidal" src="./Screenshot_20230111_130638.png">
+</picture>
+
+[![Youtube](https://img.youtube.com/vi/LgBdz6-3H2w/0.jpg)](https://www.youtube.com/watch?v=LgBdz6-3H2w)
+
+
 <h2> Nema17 cycloidal Gearbox</h2>
 Nema17.scad  has code to create a double gear and a nema17 base.
 
