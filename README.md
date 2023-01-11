@@ -7,7 +7,7 @@ Improved version. Helical cycloidal gears.
 * Lesser noise.
 * Looks great.
 
-OpenSCAD file: cicloidalnema3.scad
+OpenSCAD file: cicloidalnema3.scad libnema.scad
 STL file: cicloidalnema3.stl
 <picture>
 <img alt="Nuevo cicloidal" src="./Screenshot_20230111_130638.png">
