@@ -5,6 +5,7 @@ Smoother movement.
 Lesser noise.
 Looks great.
 OpenSCAD file: cicloidalnema3.scad
+STL file: cicloidalnema3.stl
 <picture>
 <img alt="Nuevo cicloidal" src="./Screenshot_20230111_130638.png">
 </picture>
