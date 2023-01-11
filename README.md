@@ -1,10 +1,12 @@
 # OpenSCAD
-<h2> New compound cycloidal-helical gearbox </h2>
+## New compound cycloidal-helical gearbox 
 Improved version. Helical cycloidal gears.
+
 * Reduction ratio is caculated by n*(n-2)/2:1
 * Smoother movement.
 * Lesser noise.
 * Looks great.
+
 OpenSCAD file: cicloidalnema3.scad
 STL file: cicloidalnema3.stl
 <picture>
