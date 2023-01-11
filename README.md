@@ -11,6 +11,8 @@ STL file: cicloidalnema3.stl
 </picture>
 
 [![Youtube](https://img.youtube.com/vi/LgBdz6-3H2w/0.jpg)](https://www.youtube.com/watch?v=LgBdz6-3H2w)
+Torque test:
+[![Youtube](https://img.youtube.com/vi/kAjC7EDokVM/0.jpg)](https://www.youtube.com/watch?v=kAjC7EDokVM)
 
 
 <h2> Nema17 cycloidal Gearbox</h2>
