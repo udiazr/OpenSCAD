@@ -9,6 +9,10 @@ File: smallredu-00.scad smallredu-00.stl
 <img alt="Pinion multiplier" src="./smallredu.png">
 </picture>
 
+The key idea is shown in this video:
+[![Youtube](https://img.youtube.com/vi/fJobvjl_Eco/0.jpg)](https://www.youtube.com/watch?v=fJobvjl_Eco)
+
+3D printed version:
 [![Youtube](https://img.youtube.com/vi/WsfPOGR48Kg/0.jpg)](https://www.youtube.com/watch?v=WsfPOGR48Kg)
 
 
