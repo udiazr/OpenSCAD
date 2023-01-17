@@ -3,6 +3,8 @@
 I've seen some youtube video that inspired this reducer.
 You introduce a small cycloidal gear in the motor axis and the effect is to multiply the number of teeth that the inner gear makes every cycle by the teeth number of this pinion.
 
+File: smallredu-00.scad smallredu-00.stl
+
 <picture>
 <img alt="Pinion multiplier" src="./smallredu.png">
 </picture>
