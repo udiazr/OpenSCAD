@@ -6,6 +6,7 @@ You introduce a small cycloidal gear in the motor axis and the effect is to mult
 <picture>
 <img alt="Pinion multiplier" src="./smallredu.png">
 </picture>
+
 [![Youtube](https://img.youtube.com/vi/WsfPOGR48Kg/0.jpg)](https://www.youtube.com/watch?v=WsfPOGR48Kg)
 
 
