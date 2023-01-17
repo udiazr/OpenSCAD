@@ -1,4 +1,15 @@
 # OpenSCAD
+## Cycloidal gearbox with pinion multiplier.
+I've seen some youtube video that inspired this reducer.
+You introduce a small cycloidal gear in the motor axis and the effect is to multiply the number of teeth that the inner gear makes every cycle by the teeth number of this pinion.
+
+<picture>
+<img alt="Pinion multiplier" src="./smallredu.png">
+</picture>
+[![Youtube](https://img.youtube.com/vi/WsfPOGR48Kg/0.jpg)](https://www.youtube.com/watch?v=WsfPOGR48Kg)
+
+
+
 ## New compound cycloidal-helical gearbox 
 Improved version. Helical cycloidal gears.
 
