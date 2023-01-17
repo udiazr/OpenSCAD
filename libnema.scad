@@ -33,17 +33,21 @@ polygon(coord);
         translate([31/1.414*cos(90*i+45),31/1.414*sin(90*i+45)])
         circle(d=d,$fn=30);} }
 
+module nema17_eje(s=1){
+ scale([s,s])
+difference(){
+circle(d=5,$fn=100);
+translate([4,0])
+square(size=[4,10],center=true);
+}
+
 
 module nema17_nut(h=3,d=10,s=1,e=1){
 linear_extrude(h)
 difference(){
 circle(d=d2,$fn=100);
 translate([0,e])
-scale([s,s])
-difference(){
-circle(d=5,$fn=100);
-translate([4,0])
-square(size=[4,10],center=true);
+nema17_eje(s=s);
 }}}
 
 
@@ -69,4 +73,15 @@ square(size=[10.3,10.3],center=true);
 }
 }
 
+}
+
+module nema17(h=10,d=0){
+linear_extrude(h)
+difference(){
+  intersection(){
+square(42,center=true);
+    circle(d=54);}
+    nema17_holes();
+    circle(d=d);
+}
 }
