@@ -1,6 +1,9 @@
 # OpenSCAD
 ## Planetary 'precision' gearbox.
 It is a split ring/composed planetary gearbox.
+It is 50:1.
+It is intended for precision, but we must optimize it before it achieves truly precision.
+
 files: nemaplanetariot.scad nemaplanetariot.stl
 
 OpenSCAD:
