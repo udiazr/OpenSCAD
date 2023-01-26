@@ -1,4 +1,17 @@
 # OpenSCAD
+## Planetary 'precision' gearbox.
+It is a split ring/composed planetary gearbox.
+files: nemaplanetariot.scad nemaplanetariot.stl
+
+OpenSCAD:
+<picture>
+<img alt="Pinion multiplier" src="./planver.png">
+</picture>
+
+3D printed:
+[![Youtube](https://img.youtube.com/vi/kWIF8FMDaT0/0.jpg)](https://www.youtube.com/watch?v=kWIF8FMDaT0)
+
+
 ## Cycloidal gearbox with pinion multiplier.
 I've seen some youtube video that inspired this reducer.
 You introduce a small cycloidal gear in the motor axis and the effect is to multiply the number of teeth that the inner gear makes every cycle by the teeth number of this pinion.
