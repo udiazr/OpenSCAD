@@ -1,4 +1,10 @@
 # OpenSCAD
+## Telescope reducer based in planetary 'precision' gearbox.
+Download: nemaplanetario0.55twist.scad nemaplanetario0.55twist.stl
+
+Video:
+[![Youtube](https://img.youtube.com/vi/9em1FjoxKkQ/0.jpg)](https://www.youtube.com/watch?v=9em1FjoxKkQ)
+
 ## Planetary 'precision' gearbox.
 It is a split ring/composed planetary gearbox.
 It is 50:1.
