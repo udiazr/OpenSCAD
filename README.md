@@ -4,7 +4,7 @@ manguera03.scad + manguera03.stl (Manguera) hose in spanish.
 TPU and PLA is needed.
 Print the threaded parts with PLA and the other with TPU.
 Follow the instructions in the video:
-[![Youtube](https://youtu.be/AnJOFAhZ6nE/0.jpg)](https://youtu.be/AnJOFAhZ6nE) 
+[![Youtube](https://img.youtube.com/vi/AnJOFAhZ6nE/0.jpg)](https://youtu.be/AnJOFAhZ6nE) 
 <picture>
 <img alt="GardenHose" src="./Screenshot_20230813_201300.png">
 </picture>
