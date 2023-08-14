@@ -5,7 +5,9 @@ TPU and PLA is needed.
 Print the threaded parts with PLA and the other with TPU.
 Follow the instructions in the video:
 [![Youtube](https://youtu.be/AnJOFAhZ6nE/0.jpg)](https://youtu.be/AnJOFAhZ6nE) 
-
+<picture>
+<img alt="GardenHose" src="./Screenshot_20230813_201300.png">
+</picture>
 ## Telescope reducer based in planetary 'precision' gearbox.
 Download: nemaplanetario0.55twist.scad nemaplanetario0.55twist.stl
 
