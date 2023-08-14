@@ -1,4 +1,11 @@
 # OpenSCAD
+## Garden Hose Adapter
+manguera03.scad + manguera03.stl (Manguera) hose in spanish.
+TPU and PLA is needed.
+Print the threaded parts with PLA and the other with TPU.
+Follow the instructions in the video:
+[![Youtube](https://youtube.com/shorts/dqibVeWfKt0/0.jpg)](https://youtube.com/shorts/dqibVeWfKt0) 
+
 ## Telescope reducer based in planetary 'precision' gearbox.
 Download: nemaplanetario0.55twist.scad nemaplanetario0.55twist.stl
 
