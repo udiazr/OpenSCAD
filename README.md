@@ -2,7 +2,7 @@
 2020 profile slider
 ![Imagen](Screenshot_20231111_121705.png)
 
-[![Youtube](https://img.youtube.com/vi/6cmPWXfh2tU/0.jpg)](https://youtu.be/fJobvjl_Eco)
+[![Youtube](https://img.youtube.com/vi/6cmPWXfh2tU/0.jpg)](https://youtube.com/shorts/6cmPWXfh2tU)
 
 https://youtube.com/shorts/6cmPWXfh2tU
 ## Reduced with multiplier
