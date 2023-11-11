@@ -16,8 +16,11 @@ manguera03.scad + manguera03.stl (Manguera) hose in spanish.
 TPU and PLA is needed.
 Print the threaded parts with PLA and the other with TPU.
 Follow the instructions in the video:
+
 [![Youtube](https://img.youtube.com/vi/AnJOFAhZ6nE/0.jpg)](https://youtu.be/AnJOFAhZ6nE) 
+
 <img alt="GardenHose" src="./Screenshot_20230813_201300.png" width="400" />
+
 ## Telescope reducer based in planetary 'precision' gearbox.
 Download: nemaplanetario0.55twist.scad nemaplanetario0.55twist.stl
 
@@ -32,9 +35,8 @@ It is intended for precision, but we must optimize it before it achieves truly p
 files: nemaplanetariot.scad nemaplanetariot.stl
 
 OpenSCAD:
-<picture>
-<img alt="Pinion multiplier" src="./planver.png">
-</picture>
+
+<img alt="Pinion multiplier" src="./planver.png" width="400" />
 
 3D printed:
 [![Youtube](https://img.youtube.com/vi/kWIF8FMDaT0/0.jpg)](https://www.youtube.com/watch?v=kWIF8FMDaT0)
