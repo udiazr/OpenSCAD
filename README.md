@@ -1,5 +1,5 @@
 # OpenSCAD
-2020 profile slider
+2020 profile slider:  pieza2040-tres.scad 
 
 <img src="Screenshot_20231111_121705.png" alt="imagen" width="400" />
 
