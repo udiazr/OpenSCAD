@@ -1,4 +1,7 @@
 # OpenSCAD
+2020 profile slider
+![Imagen](Screenshot_20231111_121705.png)
+
 ## Reduced with multiplier
 This idea came after a youtube video I cannot remember and the trochoidal pump.
 File: pump03.scad
