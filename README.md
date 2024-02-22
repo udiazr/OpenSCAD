@@ -99,7 +99,8 @@ Edit it to fit your motor.
 Reduction ratio is calculated by n1*(n1-2)/2:1
 where n1 is the number of theet of the greatest gear.
 
-
+Source: motor25.scad
+STL: motor25.stl
 <picture>
   <img alt="." src="./motor25.png">
 </picture>
